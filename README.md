@@ -1,6 +1,6 @@
 # OTUS_03.homework
 
-📚[Documentation](https://shurafairy777.github.io/OTUS_03.homework/index.html)
+📚[Documentation](https://shurafairy.github.io/OTUS_03.homework/index.html)
 
 Задание 3
 
